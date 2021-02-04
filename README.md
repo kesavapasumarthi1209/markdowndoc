@@ -27,3 +27,10 @@ my college name is **srkit** *aamantaru*
   
   # links
   nagurinchi taliyali anta [google](https://www.google.com)
+  # table
+  s.no|name|marks
+  ----|----|-----
+  1|abc|90
+  2|abc|99
+  3|bbc|99
+  4|tv9|97
